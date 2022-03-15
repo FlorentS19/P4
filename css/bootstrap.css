@@ -1440,6 +1440,8 @@ img {
     height: auto
 }
 
+.image-resize-mode{width: 100px;}
+
 .img-rounded {
     border-radius: 6px
 }
