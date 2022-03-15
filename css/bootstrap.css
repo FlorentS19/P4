@@ -2011,8 +2011,8 @@ pre code {
 }
 
 .row {
-    margin-right: -15px;
-    margin-left: -15px
+    width: 100%;
+    margin-bottom: 30px;
 }
 
 .col-lg-1,
@@ -5063,7 +5063,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar {
-    position: relative;
     min-height: 50px;
     margin-bottom: 20px;
     border: 1px solid transparent
