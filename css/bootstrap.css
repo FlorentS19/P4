@@ -4282,7 +4282,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .container>.navbar-collapse,
 .container>.navbar-header {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+    width: 100%
 }
 
 .navbar-static-top {
